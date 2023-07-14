@@ -67,7 +67,7 @@
       <img alt="instagram" src="https://img.shields.io/badge/instagram-008491?style=for-the-badge&logo=instagram&logoColor=white" height=23/>
     </a>
     <a href="link to be added">
-      <img alt="website" src="https://img.shields.io/badge/Website%20/%20Portfolio-%23008491.svg?style=for-the-badge&logo=about.me&logoColor=white" height=24/>
+      <img alt="website" src="https://img.shields.io/badge/Website-%23008491.svg?style=for-the-badge&logo=about.me&logoColor=white" height=24/>
     </a>
   </div>
 </p>
