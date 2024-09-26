@@ -28,7 +28,7 @@
   </div>
   <br>
   <div>
-    After a rough beginning, we know have a team of 12 passionate individuals of all backgrounds.
+    After a rough beginning, we now have a team of 12 passionate individuals of all backgrounds.
   </div>
 </p>
 
